@@ -1,9 +1,10 @@
 GitHub Desktop (GUI) Workflow:
-Clone repo
+=============================
+(1) Clone repo
 
 From GitHub Desktop: File → Clone Repository or use the clone URL.
 
-Create a new branch
+(2) Create a new branch
 
 Top panel → Current Branch → New Branch.
 
