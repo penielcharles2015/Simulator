@@ -1,40 +1,21 @@
-GitHub Desktop (GUI) Workflow:
-=============================
-(1) Clone repo
-
-From GitHub Desktop: File → Clone Repository or use the clone URL.
-
-(2) Create a new branch
-
-Top panel → Current Branch → New Branch.
-
-Make changes to code
-
-Edit files locally in your code editor.
-
-Stage the changes
-
-GitHub Desktop detects changes.
-
-Use the + button to stage selected files.
-
-Commit with message
-
-Enter a message like [JIRA-1234] Fixed XYZ → Click Commit to [branch name].
-
-Push the changes
-
-Click Publish branch (if first time), or Push origin (if already published).
-
-Create Pull Request (PR)
-
-Go to GitHub web UI → Navigate to the branch → Click “Compare & pull request”.
-
-Add reviewers, test details
-
-Enter test details, reviewers, and PR description → Click Create pull request.
-
-Merge after review
-
-Once approved → Click Merge Pull Request → Optionally delete branch.
-
+•	GitHub Desktop (GUI) Workflow:
+•	=============================
+•	Clone repo
+o	From GitHub Desktop: File → Clone Repository or use the clone URL.
+•	Create a new branch
+o	Top panel → Current Branch → New Branch.
+•	Make changes to code
+o	Edit files locally in your code editor.
+•	Stage the changes
+o	GitHub Desktop detects changes.
+•	Use the + button to stage selected files.
+o	Commit with message
+•	Enter a message like [JIRA-1234] Fixed XYZ → Click Commit to [branch name].
+o	Push the changes
+o	Click Publish branch (if first time), or Push origin (if already published).
+o	Create Pull Request (PR)
+•	Go to GitHub web UI → Navigate to the branch → Click “Compare & pull request”.
+o	Add reviewers, test details
+o	Enter test details, reviewers, and PR description → Click Create pull request.
+o	Merge after review
+•	Once approved → Click Merge Pull Request → Optionally delete branch.
